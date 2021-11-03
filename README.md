@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ah4b
-- 👀 I’m interested in Infosec.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ?
+- 🌱 I’m currently learning Rust.
 
 <!---
 ah4b/ah4b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
